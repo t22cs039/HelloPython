@@ -1,2 +1,2 @@
 print('Hello, Python world!')
-print('jkajd')
+print('jkad')
